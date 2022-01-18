@@ -8,7 +8,7 @@ TECH STACK:
 HTML | CSS | JAVASCRIPT
 REACT| NODE | EXPRESS | MONGO DB
 JAVA | C++
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishi6229&theme=radical)
 
 
 
