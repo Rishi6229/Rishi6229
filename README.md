@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rishi6229
-- 👀 I’m interested in ...web development and competitive coding
-- 🌱 I’m currently learning ...MERN Stack
-- 💞️ I’m looking to collaborate on ...any good open source project
-- 📫 How to reach me ...jharishi220@gmail.com
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on any good open source project
+- 📫 How to reach me jharishi220@gmail.com
 
 TECH STACK:
 HTML | CSS | JAVASCRIPT
