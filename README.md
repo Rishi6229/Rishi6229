@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **html , css , algorithm and data structures**
+- 💬 Dived in different seas namely- **html , css , javascript , vueJS , docker , kubernetes algorithm and data structures**
 
 - 📫 How to reach me **jharishi220@gmail.com**
 
